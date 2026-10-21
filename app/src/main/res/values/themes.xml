@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.DirektoriPengguna" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/green_dark</item>
+        <item name="colorPrimary">@color/dark</item>
+        <item name="colorPrimaryDark">@color/dark</item>
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">@color/dark</item>
+    </style>
+</resources>

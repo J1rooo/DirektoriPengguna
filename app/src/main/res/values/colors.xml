@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#F2F5F7</color>
+    <color name="dark">#1A1A2E</color>
+    <color name="darker">#16213E</color>
+    <color name="green">#3DDC84</color>
+    <color name="green_dark">#2DB86F</color>
+    <color name="green_text">#08301C</color>
+    <color name="green_soft">#E8F7EE</color>
+    <color name="text_main">#16213E</color>
+    <color name="text_sub">#5B6B7C</color>
+    <color name="border">#E2E8F0</color>
+    <color name="disabled">#CBD5E1</color>
+    <color name="danger">#D93025</color>
+</resources>
